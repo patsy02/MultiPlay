@@ -12,9 +12,9 @@ tmp/*
 tmp/bytecode/*
 test-result/*
 server.pid
-peterhagane.iws
-/tmp
-/modules
-/lib
-/test-result
-/logs
+*peterhagane.iws
+*/tmp
+*/modules
+*/lib
+*/test-result
+*/logs
